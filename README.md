@@ -2,7 +2,7 @@
 
 ## Step 1 - Creating a Bucket on Amazon S3
 ###  After logging into your AWS Console, under Services > All Services, search for “S3” and click on it to go to the S3 dashboard.
-![](./images/firsts3.png)
+![installation](./images/firsts3.png)
 ### On the S3 Dashboard, click on the Create Bucket button to create a new storage bucket to store your static website files.
 ![installation1](./images/stepp1.png)
 
